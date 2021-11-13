@@ -1,10 +1,10 @@
 ### Information
-**RHGR version**: (insert relevant editor version here)
+**RHGR version**: 1.0.1
 
 ### Description
-(describe your problem)
+I cant open it
 
 ### Behaviours
-**Expected behaviour**: <what was *supposed* to happen?>
+**Expected behaviour**: <for it to run>
 
-**Actual behaviour**: <what *really* happened?>
+**Actual behaviour**: <every time i double click it nothing happens>
